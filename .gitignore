@@ -1,0 +1,40 @@
+# Node.js dependencies
+/node_modules/
+
+# Hardhat artifacts and cache
+/.cache/
+/artifacts/
+/build/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# .env file that contains sensitive data
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.idea/
+.vscode/
+
+# npm debug log
+npm-debug.log*
+
+# Local build directories or other generated files
+/dist/
+build/
+
+# Coverage reports (if you generate them with a testing tool)
+coverage/
+
+# Hardhat specific
+/hardhat.config.js
