@@ -49,3 +49,16 @@ Technologies Used:
     OpenZeppelin (Smart Contract Libraries): The project uses OpenZeppelin’s contracts for the ERC-721 implementation and ownership management, providing a secure and standardized framework for creating NFTs.
 
     Hardhat (Development Framework): Hardhat is used for deploying the smart contract to the Ethereum network, ensuring an efficient development and testing workflow.
+
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Acknowledgements
+
+    OpenZeppelin: For providing the secure and widely-used ERC-721 implementation.
+    Hardhat: For simplifying Ethereum development with easy contract deployment and testing.
+    Pillow: Python Imaging Library used for creating the block-based artwork.
+
